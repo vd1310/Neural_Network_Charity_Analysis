@@ -7,7 +7,7 @@
 ## Results: 
 
 ### Data Preprocessing
-#### What variable(s) are considered the target(s) for your model?IS_SUCCESSFUL Column which is also used for spliting our preprocessed data into our features and target arrays
+#### What variable(s) are considered the target(s) for your model?IS_SUCCESSFUL Column which is also used for splitting our preprocessed data into our features and target arrays
 ![alt text](https://github.com/vd1310/Neural_Network_Charity_Analysis/blob/main/target.PNG)
 #### What variable(s) are considered to be the features for your model?
 ##### APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, SPECIAL_CONSIDERATIONS, ASK_AMT
@@ -24,5 +24,10 @@
 ##### 2. Other category modified to <500 from 200
 ![alt text](https://github.com/vd1310/Neural_Network_Charity_Analysis/blob/main/500.PNG)
 
-## Summary
+## Summary: 
+#### My deep learning neural network model achieved 71% accuracy thus failing to achieve the level of 75% and so we can say that the model is not that efficient. However by reducing the noise we could improve the accuracy from 53% to 71% and with further investigation the accuracy can be improved further
+A. 
+![alt text](https://github.com/vd1310/Neural_Network_Charity_Analysis/blob/main/at1.PNG)
+B. 
+![alt text](https://github.com/vd1310/Neural_Network_Charity_Analysis/blob/main/att3.PNG)
 
